@@ -1,0 +1,93 @@
+<html>
+
+<head>
+    <title> my hobby</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <center><ul class="menu">
+        <li class="links"><a href="#about">ABOUT BADMINTON</a></li>
+        <li class="links"><a href="#videos">BADMINTON RULES</a></li>
+        <li class="links"><a href="#work">WORK</a></li>
+        <li class="links"><a href="#writing"> HISTORY OF BADMINTON </a></li>
+        <li class="links"><a href="#contact">MY CONTACT</a></li>
+    </ul>
+    </center>
+
+    <ul class="menu">
+        <li class="links"><a href="#about">ABOUT BADMINTON</a></li>
+        <li class="links"><a href="#videos">BADMINTON RULES</a></li>
+        <li class="links"><a href="#work">WORK</a></li>
+        <li class="links"><a href="#writing"> HISTORY OF BADMINTON </a></li>
+        <li class="links"><a href="#contact">MY CONTACT</a></li>
+    </ul>
+
+
+    <section id="welcome">
+        <div class="parallax-inner"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYol5mGdugT_PFvDAHwZbg1Qgym7AhHSfjsA&usqp=CAU">
+
+            <h1>My Favourite hobby <br><span id="name">Badminton</span></h1>
+
+
+            <h2> I love badminton</h2>
+
+
+
+            <div class="line"> </div>
+        </div>
+
+    </section>
+
+
+
+    <p> Badminton is my favourrite hobby beacause i started this game in class 2nd i want to take badminton as my passion i have also played for state champion of badminton i am playing this game for 10 years i am a fat boy but i an run in a court and i know all the badminton skills very excellently. </p>
+
+
+
+    <section id="videos">
+        <h1>BADMINTON RULES</h1>
+        <div class="line"></div>
+        <iframe width="900" height="506" src="https://www.youtube.com/embed/tAS7rOKtpgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <br>
+        <iframe width="900" height="506" src="https://www.youtube.com/embed/yaeFQ8lxR9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+    <section id="about">
+
+        <h1> ABOUT BADMINTON </h1>
+        <div class="line"></div>
+        <iframe width="900" height="1000" src="https://en.wikipedia.org/wiki/Badminton" frameborder="0"></iframe>
+    </section>
+
+    <section id="writing">
+
+        <h1> HISTORY OF BADMINTON </h1>
+        <div class="line"></div>
+        <a class="article" href="http://brusselsbadminton.com/library/history#:~:text=Badminton%20as%20it%20is%20played,it%20was%20first%20played%20competitively."> Who Invented badminton?</a>
+        <br>
+        <br>
+        <a class="article" href="https://www.britannica.com/sports/badminton">Full History Of Badminton</a>
+    </section>
+
+    <section id="contact">
+
+        <h1 Id="contact _h1"> MY CONTACT </h1>
+        <div class="line"></div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3442.4646879880047!2d76.78431896496618!3d30.366160031766388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1618719923839!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        
+        <div class="contact_1">
+    <a href="mailto:tanishmodi2009@gmail.com?subject=hello">
+    <i class="fa fa-envelope"></i>&nbsp;&nbsp;<h3>tanishmodi2009@gmail.com</h3>
+  </a>
+    <br>
+    <br>
+    <a href="https://www.instagram.com/modi_739/">
+        
+     <i class="fa fa-instagram"></i>&nbsp;&nbsp;<h3>modi_739</h3>  
+        
+        </a>
+        </div>
+    </section>
+    </body>
